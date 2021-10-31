@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uMisty
 - 👀 Disguised · Full Stack Engineer
 - 🤷‍♂️ .Net Engineer √
-- 😜 ~~Occasionally do some front-end work~~ and be ~~familiar~~(beginner) with React and Vue project initialization
+- 😜 Occasionally do some ~~front-end work~~ and be ~~familiar~~(beginner) with React and Vue project initialization
 - 📫 Click [here](https://umisty.com/) to see what I'm mess around.
